@@ -1,4 +1,4 @@
-# graph-algorithms
+# Graph MST & Shortest Path algorithms
 
 ## How to run
 Open your choosed algorithm folder > compile > execute.
